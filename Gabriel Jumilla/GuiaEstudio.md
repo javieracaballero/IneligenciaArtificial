@@ -4,8 +4,8 @@ Gabriel Jumilla
 
 # MATEMÁTICAS
 
-1. [ ] Aprende matematicas desd 0.
-2. [ ] Curso completo deÁlgebra Lineal de 0 a experto.
+1. [ ] Aprende matematicas desde 0.
+2. [ ] Curso completo d eÁlgebra Lineal de 0 a experto.
 3. [ ] Curso de cálculo de una variable con Python y Wolfran Alpha.
 4. [ ] Probabilidad y  estadística.
     - [ ] Probabilidad para Machine Learning y Big Data con R y Python.
