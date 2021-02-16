@@ -1,18 +1,19 @@
 # GUIA DE ESTUDO INTELIGENCIA ARTIFICIAL 
 
-Gabriel Jumilla
+Juan Gabriel Gomila Salas
 
 # MATEMÁTICAS
 
-1. [ ] Aprende matematicas desde 0.
-2. [ ] Curso completo d eÁlgebra Lineal de 0 a experto.
-3. [ ] Curso de cálculo de una variable con Python y Wolfran Alpha.
-4. [ ] Probabilidad y  estadística.
-    - [ ] Probabilidad para Machine Learning y Big Data con R y Python.
-    - [ ] Estadística inferencial para Machine Learning con R y Python.
-    - [ ] Estadística descriptiva para R Studio y Python.
-5. [ ] Ingeniería de variables para Machine Learning.
-6. [ ] Ejercicios resueltos de matemáticas para preuniversitarios.
+1. [ ] Aprende matematicas desde 0. Aritmética.
+2. [ ] Aprende matematicas desde 0. Cálculo diferencial.
+3. [ ] Curso completo de Álgebra Lineal de 0 a experto.
+4. [ ] Curso de cálculo de una variable con Python y Wolfran Alpha.
+5. [ ] Probabilidad y estadística.
+    1. [ ] Probabilidad para Machine Learning y Big Data con R y Python.
+    2. [ ] Estadística descriptiva para R Studio y Python.
+    3. [ ] Estadística inferencial para Machine Learning con R y Python.
+6. [ ] Ingeniería de variables para Machine Learning.
+7. [ ] Ejercicios resueltos de matemáticas para preuniversitarios.
 
 
 # MACHINE LEARNING
